@@ -11,7 +11,7 @@ CREATE TABLE daily_weather(
    DailyPrecipitation FLOAT
 );
 
-CREATE TABLE taxis_trips(
+CREATE TABLE taxi_trips(
    pickup_datetime timestamp,
    tip_amount FLOAT,
    pickup_longitude DOUBLE,
