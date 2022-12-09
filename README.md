@@ -2,6 +2,7 @@
 This is a group project for course 4501
 
 group name: Group 27
+Group members: Yi Mao, Yihan Bu
 UNI for group members: UNIs:[ym2917,yb2548]
 
 Description: 
