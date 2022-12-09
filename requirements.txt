@@ -1,4 +1,0 @@
-!pip install matplotlib
-!pip install  fastparquet==0.7.1
-!pip install geopandas
-!pip install keplergl==0.3.0
