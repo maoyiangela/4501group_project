@@ -2,7 +2,6 @@
 !pip install fastparquet==0.7.1
 !pip install geopandas
 !pip install keplergl==0.3.0
-
 !pip install bs4
 !pip install "SQLAlchemy>=1.4.16"
 !pip install lxml
