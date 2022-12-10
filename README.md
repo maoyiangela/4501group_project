@@ -5,7 +5,7 @@ group name: Group 27
 
 Group members: Yi Mao, Yihan Bu
 
-UNI for group members: UNIs:[ym2917,yb2548]
+UNI for group members: UNIs: [ym2917, yb2548]
 
 Description: 
 This project is going to analyze the comflict between uber and Taxi. The dataset used in this project including hired-ride trip data from Uber and NYC Yellow cab from January 2009 through June 2015.
